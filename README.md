@@ -6,7 +6,7 @@ Building web apps with Python & FastAPI while tinkering with electronics, DIY pe
 
 # What I'm up to
 
-https://github.com/Ericssonlc94/Alternate
+[![Alternate](https://github-readme-stats.vercel.app/api/pin/?username=Ericssonlc94&repo=Alternate&theme=dark)](https://github.com/Ericssonlc94/Alternate)
 
 ## Some more
 
