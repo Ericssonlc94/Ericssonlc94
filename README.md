@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ericsson
 
-Brazilian tinkerer & aspiring web dev — accountant by trade, always picking up something new
+Brazilian tinkerer & aspiring web dev — accountant by trade, always picking up something new.
 
 Building web apps with Python & FastAPI while tinkering with electronics, DIY peripherals, and the occasional miniature build.
 
@@ -8,8 +8,10 @@ Building web apps with Python & FastAPI while tinkering with electronics, DIY pe
 
 | | |
 |---|---|
-| 🌱 Studying | Python • FastAPI • HTML • GenAI — next up: Node.js & JavaScript |
-| 💬 Let's talk about | Film • Music • Games |
+| 🌱 Studying | Python • FastAPI • HTML • GenAI • Clean Architecture — next up: Node.js & JavaScript |
+|    Crafting | DIY MSFS Instruments Panel using Arduino |
+|    Reading  | Dark Fantasy/Scifi manga/books |
+| 💬 Let's talk about | Movies • Music • Games • Tech • Geopolitics |
 
 ## Stack
 
