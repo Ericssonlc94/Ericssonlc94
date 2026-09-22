@@ -4,13 +4,16 @@ Brazilian tinkerer & aspiring web dev — accountant by trade, always picking up
 
 Building web apps with Python & FastAPI while tinkering with electronics, DIY peripherals, and the occasional miniature build.
 
-## What I'm up to
+# What I'm up to
+
+https://github.com/Ericssonlc94/Alternate
+
+## Some more
 
 | | |
 |---|---|
 | 🌱 Studying | Python • FastAPI • HTML • GenAI • Clean Architecture — next up: Node.js & JavaScript |
-|    Crafting | DIY MSFS Instruments Panel using Arduino |
-|    Reading  | Dark Fantasy/Scifi manga/books |
+| 🔧 Crafting | DIY MSFS Instruments Panel using Arduino |
 | 💬 Let's talk about | Movies • Music • Games • Tech • Geopolitics |
 
 ## Stack
