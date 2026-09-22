@@ -6,7 +6,8 @@ Building web apps with Python & FastAPI while tinkering with electronics, DIY pe
 
 # What I'm up to
 
-[![Alternate](https://github-readme-stats.vercel.app/api/pin/?username=Ericssonlc94&repo=Alternate&theme=dark)](https://github.com/Ericssonlc94/Alternate)
+> **[Alternate (Windows only)](https://github.com/Ericssonlc94/Alternate)**
+> A tool inspired by the TV series Severance. It switches your machine between Work Mode and Personal Mode.
 
 ## Some more
 
