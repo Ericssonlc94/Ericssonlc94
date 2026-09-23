@@ -6,11 +6,11 @@ Building web apps with Python & FastAPI while tinkering with electronics, DIY pe
 
 # What I'm up to
 
-> **[Alternate (Windows only)](https://github.com/Ericssonlc94/Alternate)**:
-> A tool inspired by the TV series Severance. It switches your machine between Work Mode and Personal Mode.
+> **[Alternate (Windows only)](https://github.com/Ericssonlc94/Alternate)** 
+> - A tool inspired by the TV series Severance. It switches your machine between Work Mode and Personal Mode.
 
-> **[September Noctalia (Arch Hyprland/Noctalia dotfiles)](https://github.com/Ericssonlc94/dotfiles)**:
-> My current rice settings on CachyOS Hyprland/Noctalia.
+> **[September Noctalia (Arch Hyprland/Noctalia dotfiles)](https://github.com/Ericssonlc94/dotfiles)** 
+> - My current rice settings on CachyOS Hyprland/Noctalia.
 
 ## Some more
 
