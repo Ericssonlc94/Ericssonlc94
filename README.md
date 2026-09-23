@@ -6,19 +6,19 @@ Building web apps with Python & FastAPI while tinkering with electronics, DIY pe
 
 # What I'm up to
 
-> **[Alternate (Windows only)](https://github.com/Ericssonlc94/Alternate)**
+> **[Alternate (Windows only)](https://github.com/Ericssonlc94/Alternate)**:
 > A tool inspired by the TV series Severance. It switches your machine between Work Mode and Personal Mode.
 
-> **[September Noctalia (Arch Hyprland/Noctalia dotfiles)](https://github.com/Ericssonlc94/dotfiles)**
+> **[September Noctalia (Arch Hyprland/Noctalia dotfiles)](https://github.com/Ericssonlc94/dotfiles)**:
 > My current rice settings on CachyOS Hyprland/Noctalia.
 
 ## Some more
 
-| | |
-|---|---|
-| 🌱 Studying | Python • FastAPI • HTML • GenAI • Clean Architecture — next up: Node.js & JavaScript |
-| 🔧 Crafting | DIY MSFS Instruments Panel using Arduino |
-| 💬 Let's talk about | Movies • Music • Games • Tech • Geopolitics |
+* 🌱 **Studying**:  Python • FastAPI • HTML • GenAI • Clean Architecture — next up: Node.js & JavaScript 
+
+* 🔧 **Crafting**:  DIY MSFS Instruments Panel using Arduino 
+
+* 💬 **Let's talk about**:  Movies • Music • Games • Tech • Geopolitics 
 
 ## Stack
 
