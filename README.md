@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ericsson
 
-Brazilian tinkerer & aspiring web dev — accountant by trade, always picking up something new.
+Brazilian tinkerer, lifelong learner & aspiring web dev — accountant by trade, always picking up something new.
 
 Building web apps with Python & FastAPI while tinkering with electronics, DIY peripherals, and the occasional miniature build.
 
