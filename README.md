@@ -12,6 +12,9 @@ Building web apps with Python & FastAPI while tinkering with electronics, DIY pe
 > **[September Noctalia (Arch Hyprland/Noctalia dotfiles)](https://github.com/Ericssonlc94/dotfiles)** 
 > - My current rice settings on CachyOS Hyprland/Noctalia.
 
+> **[DataSearch Hardware](https://github.com/Ericssonlc94/Datasearch_Hardware)**
+> - Web app de análise de tendência de preços de hardware no Brasil que considera fatores econômicos e geopolíticos.
+
 ## Some more
 
 * 🌱 **Studying**:  Python • FastAPI • HTML • GenAI • Clean Architecture — next up: Node.js & JavaScript 
