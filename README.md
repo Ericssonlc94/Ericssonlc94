@@ -19,7 +19,7 @@ Building web apps with Python & FastAPI while tinkering with electronics, DIY pe
 
 * 🌱 **Studying**:  Python • FastAPI • HTML • GenAI • Clean Architecture — next up: Node.js & JavaScript 
 
-* 🔧 **Crafting**:  DIY MSFS Instruments Panel using Arduino 
+* 🔧 **Crafting**:  DIY Flight Sim Instruments Panel using Arduino 
 
 * 💬 **Let's talk about**:  Movies • Music • Games • Tech • Geopolitics 
 
