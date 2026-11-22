@@ -2,7 +2,7 @@
 
 Brazilian tinkerer, lifelong learner & aspiring web dev — accountant by trade, always picking up something new.
 
-Building web apps with Python & FastAPI while tinkering with electronics, DIY peripherals, and the occasional miniature build.
+Building web apps and bots with Python & FastAPI while tinkering with electronics, DIY peripherals, and the occasional miniature build.
 
 # What I'm up to
 
@@ -17,7 +17,7 @@ Building web apps with Python & FastAPI while tinkering with electronics, DIY pe
 
 ## Some more
 
-* 🌱 **Studying**:  Python • FastAPI • Spec Driven Development • GenAI • Clean Architecture — next up: Node.js & JavaScript 
+* 🌱 **Studying**:  Python • FastAPI • SDD • GenAI • Clean Architecture — next up: Node.js & JavaScript 
 
 * 🔧 **Crafting**:  DIY Flight Sim Instruments Panel using Arduino 
 
